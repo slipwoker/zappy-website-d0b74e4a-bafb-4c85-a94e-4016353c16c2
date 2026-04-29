@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חבילות גלישה בחו״ל במחירים שלא תאמינו! כרטיס SIM לחו״ל או eSIM זול שמחבר אתכם לכל העולם. הזמינו לפני הטיסה ותיהנו מחיבור מושלם בכל יעד.
+
+### איך זה עובד
+https://example.com/how-it-works
+רוצים לדעת איך מזמינים כרטיס eSIM או SIM לחו״ל? תהליך פשוט, מהיר וקל — בחרו יעד, בחרו חבילה, והתחברו לרשת תוך דקות. אין יותר סיבה להישאר מנותקים!
+
+### אודות
+https://example.com/about
+כנף מובייל נוסדה כדי לשנות את חוויית הטיול. אנחנו מספקים כרטיס אי סים זול ו-SIM לחו״ל לנוסעים ישראלים, עם שירות אמין, מחירים שקופים וחיבור בכל פינה בעולם.
+
+### שאלות נפוצות ויצירת קשר
+https://example.com/contact
+שאלות על חבילת eSIM, סים קארד בזול או חיבור בחו״ל? דף השאלות הנפוצות שלנו עונה על הכל, וצוות כנף מובייל זמין לעזור לכם לבחור את החבילה המושלמת לטיול.
+
+### Products
+https://example.com/products
+המוצרים שלנו - כנף מובייל
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - כנף מובייל
+
+### Category
+https://example.com/category/:slug
+מוצרים - כנף מובייל
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
